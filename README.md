@@ -59,6 +59,8 @@ My work combines product judgment, AI-assisted engineering and hands-on operatio
 </tr>
 </table>
 
+**More experiments:** [RTD multilingual product presentation ↗](https://vl-rtd.pages.dev/) — a static English/Russian concept site for product and packaging exploration.
+
 ### How I work
 
 **Frame the operating problem → build a usable version → test the critical path → improve from evidence.**
