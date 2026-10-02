@@ -23,38 +23,39 @@ My work combines product judgment, AI-assisted engineering and hands-on operatio
 <p><a href="https://novanestpro.com">Website ↗</a> · <a href="https://hovhannes.dev/novanest.html">Case study ↗</a> · <a href="https://novanest-pro-telegram-demo.hovohovhannisyan.chatgpt.site">Interactive demo ↗</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>CALA SIGNAL</h3>
-<p>A startup-scouting prototype with deterministic ranking and traceable evidence, powered by Cala.</p>
-<p><strong>Focus:</strong> research workflows, API integration and evidence quality.</p>
-<p><a href="https://cala-signal.hovohovhannisyan.chatgpt.site">Explore demo ↗</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <h3>The Little Light</h3>
 <p>A personalised family-book storefront connecting customer details and photos with a book-order workflow.</p>
 <p><strong>Focus:</strong> gifting UX, private uploads and order/payment integration. Product in development.</p>
 <p><a href="https://books.makeandsellgifts.com">View storefront ↗</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>ASEJ</h3>
 <p>A multilingual storefront for self-reflection agendas, with customer ordering and private operations.</p>
 <p><strong>Focus:</strong> commerce workflows, localisation and payment integration.</p>
 <p><a href="https://byasej.am">View storefront ↗</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3>Loshik</h3>
 <p>An Armenian lavash venture connecting consumer interest, restaurant demand and bakery partners.</p>
 <p><strong>Focus:</strong> business validation and consumer/B2B enquiry workflows.</p>
 <p><a href="https://loshik.hovhannes.dev">View project ↗</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>Make &amp; Sell Gifts</h3>
 <p>Practical guides for people building personalised-gift businesses.</p>
 <p><strong>Focus:</strong> content systems, affiliate commerce and analytics.</p>
 <p><a href="https://makeandsellgifts.com">Explore site ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>CALA SIGNAL</h3>
+<p>A startup-scouting prototype with deterministic ranking and traceable evidence, powered by Cala.</p>
+<p><strong>Hackathon prize:</strong> €100 from Aikido.ai for the product's security-focused approach.</p>
+<p><strong>Focus:</strong> research workflows, API integration and evidence quality.</p>
+<p><a href="https://cala-signal.hovohovhannisyan.chatgpt.site">Explore demo ↗</a></p>
 </td>
 </tr>
 </table>
