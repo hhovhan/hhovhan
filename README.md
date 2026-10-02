@@ -53,7 +53,7 @@ My work combines product judgment, AI-assisted engineering and hands-on operatio
 <td width="50%" valign="top">
 <h3>CALA SIGNAL</h3>
 <p>A startup-scouting prototype with deterministic ranking and traceable evidence, powered by Cala.</p>
-<p><strong>Hackathon prize:</strong> €100 from Aikido.ai for the product's security-focused approach.</p>
+<p><strong>Hackathon prize:</strong> €1,000 from Aikido.ai for the product's security-focused approach.</p>
 <p><strong>Focus:</strong> research workflows, API integration and evidence quality.</p>
 <p><a href="https://cala-signal.hovohovhannisyan.chatgpt.site">Explore demo ↗</a></p>
 </td>
