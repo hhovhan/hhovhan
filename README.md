@@ -20,7 +20,7 @@ My work combines product judgment, AI-assisted engineering and hands-on operatio
 <h3>NovaNest Pro</h3>
 <p>AI-assisted workflows for home-service businesses: lead intake, reply approval, follow-up and booking.</p>
 <p><strong>Focus:</strong> product, business workflows and operator control.</p>
-<p><a href="https://novanestpro.com">Website ↗</a> · <a href="https://hovhannes.dev/novanest.html">Case study ↗</a> · <a href="https://novanest-pro-telegram-demo.hovohovhannisyan.chatgpt.site">Interactive demo ↗</a></p>
+<p><a href="https://novanestpro.com">Website ↗</a> · <a href="https://hovhannes.dev/novanest.html">Case study ↗</a> · <a href="https://hovo-novanest-demo.founder-website.workers.dev">Interactive demo ↗</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>The Little Light</h3>
